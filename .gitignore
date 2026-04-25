@@ -1,0 +1,14 @@
+CLAUDE.md
+
+# Documentation artifacts
+*.txt
+*.md
+!README.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
